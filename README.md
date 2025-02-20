@@ -57,6 +57,8 @@ This analysis focuses on the following **Key Performance Indicators (KPIs):**
 ### **📌 Car Theft Trends:**
 - **4,106 thefts recorded** from **2019 to 2023**.
 - Theft rates **peaked in 2021 and 2022** before slightly declining in 2023.
+- ![image](https://github.com/user-attachments/assets/2b159a82-a9fa-41a7-9b81-24f64ad94c09)
+
 
 ### **📌 High-Risk Locations:**
 - **New Barrhaven - New Development - Stonebridge** (**257 cases**) reported the highest thefts.
