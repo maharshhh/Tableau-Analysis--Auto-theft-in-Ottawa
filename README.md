@@ -12,7 +12,10 @@ Car theft remains a significant challenge in urban areas. This **Tableau dashboa
 - **Recovery rates and patterns** ✅
 - **Time-based analysis of theft occurrences** ⏳
 
-This dashboard enables **law enforcement agencies, policymakers, and car owners** to make **informed decisions** to mitigate vehicle theft.
+- ![Dashboard](https://github.com/user-attachments/assets/eb3ab872-01c4-4b71-9198-4539400511d1)
+
+
+This dashboard enables **Insurance agencies, policymakers, and car owners** to make **informed decisions** to mitigate vehicle theft.
 
 ---
 
