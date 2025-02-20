@@ -13,6 +13,7 @@ Car theft remains a significant challenge in urban areas. This **Tableau dashboa
 - **Time-based analysis of theft occurrences** ⏳
 
 - ![Dashboard](https://github.com/user-attachments/assets/eb3ab872-01c4-4b71-9198-4539400511d1)
+- https://public.tableau.com/views/CarTheftAnalysis-Ottawa/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 This dashboard enables **Insurance agencies, policymakers, and car owners** to make **informed decisions** to mitigate vehicle theft.
