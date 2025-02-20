@@ -67,16 +67,23 @@ This analysis focuses on the following **Key Performance Indicators (KPIs):**
 - **Emerging high-theft zones:**
   - **Riverside South - Leitrim** (**137 cases**)
   - **Overbrook - McArthur** (**113 cases**)
+  - ![Screenshot 2025-02-20 175005](https://github.com/user-attachments/assets/2666f57a-c7a5-4370-9cae-7f1cc785ce36)
+
 
 ### **📌 Most Stolen Vehicles:**
 - **Top 3 Car Brands Targeted:**
   1. **Toyota** – **1,327 thefts**
   2. **Honda** – **474 thefts**
   3. **Ford** – **344 thefts**
+     ![image](https://github.com/user-attachments/assets/a74ad4e9-21f5-4eff-88ac-f7a6f004f0ac)
+
 - **Top 3 Stolen Car Models:**
   1. **Toyota Highlander** – **665 thefts**
   2. **Toyota RAV4** – **282 thefts**
   3. **Honda CR-V** – **217 thefts**
+     ![image](https://github.com/user-attachments/assets/cb628bfc-9097-4e25-a0f9-a26d06a54fc4)
+
+
 
 ### **📌 Peak Theft Periods:**
 - **Most common theft days:**
@@ -88,10 +95,13 @@ This analysis focuses on the following **Key Performance Indicators (KPIs):**
   2. **Night (9 PM - 5 AM):** **811 thefts** – High overnight risk.
   3. **Afternoon (12 PM - 5 PM):** **781 thefts** – Theft occurrences remain significant.
   4. **Morning (5 AM - 12 PM):** **738 thefts** – Lowest theft rate, but still substantial.
+     ![image](https://github.com/user-attachments/assets/c4a49cb0-80a8-4865-9ec2-17ef65f10572)
+
 
 ### **📌 Recovery Insights:**
 - **61.91% of stolen vehicles were recovered**, approximately **2,523 vehicles**.
 - **Newer vehicles (post-2020) have lower recovery rates**, indicating a need for enhanced security.
+![image](https://github.com/user-attachments/assets/ae4d1ab2-e975-4678-a8c9-b2ea7d4a9848)
 
 ---
 
@@ -136,9 +146,4 @@ This analysis focuses on the following **Key Performance Indicators (KPIs):**
 ### **🔹 For Policymakers & Insurers:**
 1. **Implement public awareness programs** on theft prevention.  
 2. **Introduce mandatory security measures** for high-risk vehicle models.  
-3. **Encourage insurance incentives** for vehicles with advanced security.  
-
----
-
-This **enhanced report** presents a clear breakdown of theft patterns, high-risk areas, and actionable recommendations. 🚀  
-Let me know if you need **further refinements or visualizations!** 😊
+3. **Encourage insurance incentives** for vehicles with advanced security.
